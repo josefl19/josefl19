@@ -33,4 +33,9 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josefl19&show_icons=true&locale=en" alt="josefl19" /></p>
 
-
+<p align="center">
+     <a href="https://github.com/josefl19">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuosmx&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuosmx&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages"/>
+     </a>
+</p>
